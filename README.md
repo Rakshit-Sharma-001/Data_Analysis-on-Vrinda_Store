@@ -26,15 +26,12 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked and merge all of them into one dashboard.
 - Slicers are added and their connections are joined with all pivot tables to make dashboard interactive and dynamic.
-- The solution sheets are uploaded <a>here.</a>
+- The solution sheets are uploaded <a href = "https://github.com/Rakshit-Sharma-001/Data_Analysis-on-Vrinda_Store/blob/main/Book1.xlsx">here.</a>
+- The Final Dashboard file is uploaded <a href = "https://github.com/Rakshit-Sharma-001/Data_Analysis-on-Vrinda_Store/blob/main/Book2.xlsx">here</a>.
 
 
 
-## **Dashboard**
-
-![Alt text of the image](https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png)
-
-
+## [**Dashboard**](https://github.com/Rakshit-Sharma-001/Data_Analysis-on-Vrinda_Store/blob/main/Dashboard.jpg)
 
 ## **Project Insight**
 
